@@ -31,7 +31,7 @@ public class Calculate {
 	}
 
 	public static int add(int x, int y) {
-		return x+y;
+		return 0;
 	}
 
 	public static int sub(int x, int y) {
